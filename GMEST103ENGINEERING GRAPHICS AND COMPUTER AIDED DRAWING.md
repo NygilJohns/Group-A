@@ -3,7 +3,7 @@ Country: "India"
 University: "KTU"
 Branch: "CSE"
 Version: "2024"
-Semester: S1/S2
+Semester: S1
 Course_code: "GMEST103 "
 Course_title: "ENGINEERING GRAPHICS AND COMPUTER AIDED DRAWING"
 Language: "English"
